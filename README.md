@@ -64,11 +64,10 @@ Created two new end users, Karen and Ken, for use in real-world simulations in t
 I developed three new Service Level Agreements (SLAs) with distinct levels of severity and escalation protocols. Severity Level A (Sev-A) is designed for 24/7 support, allowing for a mere one-hour grace period. Severity Level B (Sev-B) also provides 24/7 coverage but extends the grace period to four hours. In contrast, Severity Level C (Sev-C) is serviced exclusively during standard business hours, featuring an eight-hour grace period. 
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot (12)](https://github.com/user-attachments/assets/7389ff8c-1c64-44e0-b11f-ac57a89e5570)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Last I configured nine help topics for user ticket submissions, assigning each a corresponding priority level.
 </p>
 <br />
