@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure "ROLE" and add new one
+- Add new "ROLE" 
 - Create two agents one System Administrator and one with "View Only" access
 - Create a "Department" for organizing ticket assignment and configure "Teams" for assigning agents
 - Create 2 agents one System Administrator and one with "View Only" access 
