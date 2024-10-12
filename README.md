@@ -36,7 +36,7 @@ I established a new role within osTicket, designated as "Supreme Admins," which 
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/83a0990d-a804-49c0-9ef1-556645cbcb52)
 
-Added two new agents to the system. Jane Doe has been assigned the "Supreme Admins" role, providing her with full read and write access. John Doe has been created with "View Only" access.
+I have onboarded two new agents into the system. Jane Doe has been appointed to the "Supreme Admin" role, which affords her comprehensive read and write access, whereas John Doe has been granted "View Only" access.
 </p>
 <br />
 
