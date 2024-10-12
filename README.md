@@ -22,9 +22,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add new "ROLE" 
 - Create two agents one System Administrator and one with "View Only" access
 - Create a "Department" for organizing ticket assignment and configure "Teams" for assigning agents
-- Create 2 agents one System Administrator and one with "View Only" access 
-- Create Users (customers) for simulated tickets in the next lab
-- Configure SLA's
+- Create Users (customers) for simulated tickets in the next lab 
+- Configure three new SLA's
+- 
 
 <h2>Configuration Steps</h2>
 
