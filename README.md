@@ -36,7 +36,7 @@ I created a new role in osTicket called "Supreme Admins," granting full read and
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/83a0990d-a804-49c0-9ef1-556645cbcb52)
 
-Added two new agents to the system. Jane Doe has been assigned the "Supreme Admins" role, providing her with full read and write access, as well as membership in the SysAdmins department. John Doe has been created with "View Only" access and assigned to the Support department.
+Added two new agents to the system. Jane Doe has been assigned the "Supreme Admins" role, providing her with full read and write access. John Doe has been created with "View Only" access.
 </p>
 <br />
 
@@ -54,12 +54,14 @@ Created a new department called SysAdmins and assigned Jane Doe, who was granted
 Created two new end users, Karen and Ken, for use in real-world simulations in the next lab.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot (10)](https://github.com/user-attachments/assets/12c49844-ecc5-4157-8146-c74210c7ac09) ![Screenshot (11)](https://github.com/user-attachments/assets/026e9f69-2f6f-4bc2-ada1-f51ebe613918)
+
+
+
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I developed three new Service Level Agreements (SLAs) with distinct levels of severity and escalation protocols. Severity Level A (Sev-A) is designed for 24/7 support, allowing for a mere one-hour grace period. Severity Level B (Sev-B) also provides 24/7 coverage but extends the grace period to four hours. In contrast, Severity Level C (Sev-C) is serviced exclusively during standard business hours, featuring an eight-hour grace period. 
 </p>
 <br />
 <p>
