@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![Config Roles](https://github.com/user-attachments/assets/a730daf9-d88c-4a4b-bec4-b2417b74ca03)
 
-I created a new role in osTicket called "Supreme Admins," granting full read and write access to the entire system.
+I established a new role within osTicket, designated as "Supreme Admins," which confers comprehensive read and write access throughout the entire system.
 </p>
 <br />
 
