@@ -40,9 +40,10 @@ Added two new agents to the system. Jane Doe has been assigned the "Supreme Admi
 </p>
 <br />
 
-![Screenshot (13)](https://github.com/user-attachments/assets/fcaeb068-906a-4f69-ace5-0312a63cbf60)
+![Screenshot (13)](https://github.com/user-attachments/assets/fcaeb068-906a-4f69-ace5-0312a63cbf60) ![Screenshot (7)](https://github.com/user-attachments/assets/c7384421-afb8-4e28-a2a8-c814e4f7c72c)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Created a new department called SysAdmins and assigned Jane Doe, who was granted full access during the setup. John Doe was assigned to the default Support department. Additionally, a new team named "Online Banking" was created, with Jane Doe added to it. A second team, "Level 1 Support," was also created, and John Doe was assigned to this team.
 </p>
 <br />
 <p>
