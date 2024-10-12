@@ -25,7 +25,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create Users (customers) for simulated tickets in the next lab 
 - Configure three new SLA's
 - Create new "Help Topics" and assign appropriate Parent Topic's
-![Config Roles](https://github.com/user-attachments/assets/f5fdbee1-ef19-4ae2-90bf-49ebdccc48c9)
 
 <h2>Configuration Steps</h2>
 
